@@ -1,2 +1,2 @@
 # IA-PYTHON
-INTELIGÊNCIA ARTIFICIAL E APRENDIZADO DE MÁQUINA
+Lato Sensu em Inteligência Artificial e Aprendizado de Máquina
