@@ -10,6 +10,6 @@ Leandro Cardoso Reis
 
 O nosso projeto foi divido em duas etapas:
 
-* O primeiro projeto referente a Série Histórica de Preços de **Combustíveis** foi realizado a leitura, manipulação, limpeza e exploração dos dados com o **Pandas** e a plotagem dos dados utilizando o **Matplotlib**
+* O primeiro projeto utilizamos o conhecimento adquirido em aula para fazer a análise exploratória dos dados sobre o preço dos **combustíveis** em todo o país, realizando a leitura, manipulação e limpeza para que fosse possível transformar os dados em informações.
 
-* O segundo projeto referente a pacientes com **Diabetes**, sendo utilizado **scikit-learn** para conjunto de treinamento e de teste. E de acordo com a aprendizagem dos dados, irá exibir se o paciente não possui diabete ou se é diabético. 
+* O segundo projeto refere-se a um modelo de **machine learning**, onde utilizamos um modelo de classificação para determinar se o paciente  é ou não diabético
